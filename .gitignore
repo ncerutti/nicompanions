@@ -1,0 +1,6 @@
+gentext.build
+gentext.onefile-build
+gentext.dist
+.venv
+
+!gentext.bin
